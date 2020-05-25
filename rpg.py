@@ -521,7 +521,7 @@ def game(DEBUG=False):
 	assert analysis
 	assert gpu
 
-	pdb.set_trace()
+	#pdb.set_trace()
 	##########################################
 	# PARALLEL QUESTS
 	##########################################

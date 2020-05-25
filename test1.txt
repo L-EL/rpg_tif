@@ -1,0 +1,321 @@
+[H[2J[H[2J[H[2J[H[2J[H[2J********************************************************************************
+**           Il est [92m[1m8h00[0m. Il te reste [1m[93m100 d'#NRJ[0m.
+********************************************************************************
+F
+********************************************************************************
+**           Cette action t'a pris [92m[1m10 minutes[0m et tu as perdu [93m[1m-10 point(s) d'#NRJ[0m.
+********************************************************************************
+[0m
+
+Bravo, tu as réussi à te lever ! Quel exploit ;)
+
+********************************************************************************
+**           Il est [92m[1m8h10[0m. Il te reste [1m[93m90 d'#NRJ[0m.
+********************************************************************************
+T
+********************************************************************************
+**           Cette action t'a pris [92m[1m15 minutes[0m et tu as gagné [93m[1m3 point(s) d'#NRJ[0m.
+********************************************************************************
+[0m
+
+Tu t'es engagée dans une [91mjoute verbale avec le chauffeur[0m, une bonne chose de faîte (ou pas) !
+
+En partant, tu ne résistes pas à l'envie de [1mmettre un coup de pied dans le rétro.[0m
+Ah ça t'avait manqué ce boost d'adrénaline quotidien :p
+
+********************************************************************************
+**           Il est [92m[1m8h25[0m. Il te reste [1m[93m93 d'#NRJ[0m.
+********************************************************************************
+Tiphaine arrive à l'IBENS [1m[4m Avant 9 h !!![0m
+
+Mais quelle mouche l'a piquée ?
+
+Elle enfile son masque anti COVID-22 avant de rentrer.
+
+Dans le Hall dont la peinture a été changée en blanc, elle croise un homme 
+pressé et grisonnant en blouse blanche. Il a une grosse moustache, une grosse 
+chevalière au poignet et des cheveux longs à la mode des années 70.
+
+C'est [91mDaoult[0m !
+
+Il a l'air très surpris de croiser une doctorante de si bonne heure.
+D'habitude il n'y a personne...
+[91mDaoult[0m accoste Tiphaine, en lui parlant un peu comme une [91mmerde[0m.
+
+--------------------------------------------------------------------------------
+
+[91mDaoult[0m: 
+
+Ah ! Mme Champetier. J'ai été prévenu de votre arrivée. Je vous ai ré-assigné
+au labo d'[91mAuguste Genovesio[0m, votre ancien chef. Un gars bien ! Lui au moins il
+est venu travailler pendant le confinement... Pas comme vous à ce qu'on m'a dit!
+
+Pas mal, votre travail pendant votre thèse... Dommage qu'il ne serve un peu à [91mrien[0m
+
+On va vous donner l'occasion d'en faire quelque chose d'[92mutile[0m: 
+Vous allez nous aider à distinguer les cellules infectées par le COVID-22 de
+celles qui ne le sont pas ! Vous devriez vous grouiller le cul...
+
+Enfin... Je pense que le COVID-22 va devenir une infection saisonnière si 
+vous voulez mon avis... C'est jamais qu'une grosse [91mGRIPPE[0m...
+
+Quoi qu'il en soit le [92mTEMPS[0m presse, et vous feriez bien d'y 
+mettre un peu d'[93m#NRJ[0m.
+
+
+********************************************************************************
+**           Cette action t'a pris [92m[1m10 minutes[0m et tu as perdu [93m[1m0 point(s) d'#NRJ[0m.
+********************************************************************************
+[92mTiphaine[0m ne se laisse pas impressionner par le vieux [91mDaoult[0m.
+
+Elle prend même le temps d'essayer de faire du prosélytisme: Il en a pas marre,
+lui, de ces [91mconnards d'automobilistes[0m qui se garent sur les pistes
+cyclables ?
+
+[91mDaoult[0m lui répond qu'il a lui-même une grosse Audi A6 garée en
+permanence en double-file derrière l'institut. Il semblerait que ce soit lui
+même une sorte de [91mconnard d'automobiliste[0m. Après tout, le plan
+[94mCovIBENS[0m préconise le transport individuel, non ?
+
+Bien que cela lui coûte un peu d'[93m#NRJ[0m, Tiphaine prend le temps
+de se fighter avec [91mDaoult[0m pour l'inciter à prendre son vélo
+plutôt que sa grosse Audi A6 de merde. 
+
+Ca ne sert à rien, mais ça lui fait du bien.
+
+Tandis que [91mDaoult[0m s'éloigne en rigolant à pleine gorge.
+
+********************************************************************************
+**           Cette action t'a pris [92m[1m10 minutes[0m et tu as perdu [93m[1m-5 point(s) d'#NRJ[0m.
+********************************************************************************
+********************************************************************************
+**           Il est [92m[1m8h45[0m. Il te reste [1m[93m88 d'#NRJ[0m.
+********************************************************************************
+F
+********************************************************************************
+**           Cette action t'a pris [92m[1m5 minutes[0m et tu as perdu [93m[1m0 point(s) d'#NRJ[0m.
+********************************************************************************
+F
+[0m
+
+Tu as attendu. Chance ! [92mBilel[0m arrive !
+
+- Salut Tiphaine, comment vas-tu ? C'est un peu le seul ici avec le [94m[1mplan CovIBENS[0m
+mais bon :)
+
+Ah oui ton badge, bien sûr, je te le fais tout de suite.
+
+--------------------------------------------------------------------------------
+
+[1m[92mUn peu d'attente, mais tu te dis que tu as bien fait. Tu as ton badge.[0m
+
+
+********************************************************************************
+**           Cette action t'a pris [92m[1m5 minutes[0m et tu as perdu [93m[1m0 point(s) d'#NRJ[0m.
+********************************************************************************
+********************************************************************************
+**           Il est [92m[1m8h55[0m. Il te reste [1m[93m88 d'#NRJ[0m.
+********************************************************************************
+F
+T
+[0m
+
+[1m[94mJérôme et Pierre[0m sont dans la [92m[1m[4mRESISTANCE[0m ! Ils ont de très forts soupçons contre
+le [1m[91mcorona-cola[0m. [91m[1mDaoult[0m cherche juste à se remplir les poches et faire la une des
+journeaux.
+
+[92m[1mDavid Holcman[0m est aussi dans le coup avec [92m[1mPierre Paoletti[0m et une poignée de
+doctorant.e.s et de post-doctorant.e.s.
+
+[1m[94mJérôme et Pierre[0m communiquent à [92m[1mTiphaine[0m le mot de passe du serveur personnel de
+[1m[91mDaoult[0m : [1m[92mLeConsensusCEstPet1[0m
+
+********************************************************************************
+**           Cette action t'a pris [92m[1m20 minutes[0m et tu as perdu [93m[1m0 point(s) d'#NRJ[0m.
+********************************************************************************
+********************************************************************************
+**           Il est [92m[1m9h15[0m. Il te reste [1m[93m88 d'#NRJ[0m.
+********************************************************************************
+3
+[92mTiphaine[0m se penche sur les [92mplantes[0m.
+
+Elles sont en train de crever de soif !
+
+Les arroser prendra un peu de [92mTEMPS[0m, mais elles en ont bien besoin.
+
+[94mSluuuuuuuurp[0m ! Si elles pouvaient parler, les plantes remercieraient [92mTiphaine[0m
+
+
+********************************************************************************
+**           Cette action t'a pris [92m[1m5 minutes[0m et tu as perdu [93m[1m0 point(s) d'#NRJ[0m.
+********************************************************************************
+[0m
+
+[92mTiphaine[0m n'est pas allée faire [91mcaca[0m pour se concentrer sur sa [94mmission[0m
+
+Par accident, elle lâche un petit [91mpet silencieux[0m sur le [92mpauvre Alexis[0m
+
+Il ouvre la fenêtre à la hâte pour ne pas se faire gazer, mais a failli [91mmourir[0m.
+Pour ça, Tiphaine ne lui a clairement pas manqué !
+Pas sûr qu'il soit enclin à l'aider après un tel [91mcoup fourré[0m...
+
+[1m[93mOups ![0m
+
+--------------------------------------------------------------------------------
+
+
+
+IN THE LAB
+
+alexis = False, hamac_votes = ['ouardia', 'tiphaine']
+********************************************************************************
+**           Il est [92m[1m9h20[0m. Il te reste [1m[93m88 d'#NRJ[0m.[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J
+********************************************************************************
+T
+[0m
+
+[91mAuguste[0m n'a vraiment pas changé...
+
+Mais [91mse plaindre[0m ne servirait à rien.
+
+Elle est fatiguée, dommage qu'il n'y ait pas de [93mHAMAC[0m dans ce labo !
+Il faut vraiment qu'elle en fasse sa [94mPRIORITE ABSOLUE[0m.
+
+
+
+LAB
+covid = False, coffee = False, toilets = False, alexis = False
+********************************************************************************
+**           Il est [92m[1m9h25[0m. Il te reste [1m[93m88 d'#NRJ[0m.
+********************************************************************************
+[0m
+
+[94m[1mAyush et Aurélien[0m injectent du [91m[1mcorona-cola[0m sur des neurones de souris in vitro.
+[92m[1mTiphaine[0m est [1m[93mLA data scientist[0m qu’il leur faut. [94m[1mAyush et Aurélien[0m pensent que le
+[91m[1mcorona-cola[0m fait dégénérer les neurones mais ils ont besoin d’analyses
+[1mquantitatives[0m pour le prouver. Ils lui donnent les images. Pour le reste c’est
+bien connu, il [4m“suffit”[0m de faire l’analyse et [4m“y’a qu’à”[0m relancer ses vieux
+scripts parce que les données sont [1mGÉNIALES.
+
+Vite vite ![0m
+
+********************************************************************************
+**           Cette action t'a pris [92m[1m30 minutes[0m et tu as perdu [93m[1m0 point(s) d'#NRJ[0m.
+********************************************************************************
+********************************************************************************
+**           Il est [92m[1m9h55[0m. Il te reste [1m[93m88 d'#NRJ[0m.
+********************************************************************************
+[0m
+
+De retour au labo la compétition est rude ! Les [1mGPUs seront départagés par un
+tournoi de Pierre-Feuille-Papier-Ciseaux[0m entre [92m[1mTiphaine[0m, [94m[1mRaphaël, et Lisa[0m.
+Seulement deux d'entre elleux pourront accéder aux GPUs.
+
+Tiphaine se concentre pour cette épreuve mentale.
+
+
+your choice : 1
+Lisa choice : 0
+Raphael choice : 1
+[0m
+
+Ca y est ! [1mTu as enfin un créneau sur les GPUs ![0m Vite vite, il faut faire ces
+analyses pour aider à coincer [91m[1mDaoult[0m.
+
+
+
+SHIFUMI
+gpu = True
+********************************************************************************
+**           Il est [92m[1m9h55[0m. Il te reste [1m[93m88 d'#NRJ[0m.
+********************************************************************************
+question_troll2
+F
+[0m
+
+[92mMathieu[0m [91mgromelle[0m. Il aurait voulu que [92mTiphaine[0m soit enfin décidée
+à se démmerder [91mtoute seule[0m.
+
+[92mTiphaine[0m en profite pour lui parler du [93mHAMAC[0m.
+
+Mathieu a l'air vraiment [91msaoulé[0m. Pas sûr qu'il l'aide à avoir un [93mHAMAC[0m.
+
+--------------------------------------------------------------------------------
+
+Ensuite elle se met à analyser ses données
+
+Pour une fois, l'analyse de données se passe [92mSUPER BIEN ![0m
+Les données sont [92mpropres[0m. Ça ne prend quasiment aucun temps.
+
+Le résultat est formel: Le [91mcorona-cola[0m détruit les neurones.
+[91mDaoult[0m est un fou de vouloir l'utiliser massivement !
+
+Tiphaine profite de son expérience de [94mchimiste[0m pour examiner la [94mformule chimique[0m
+du [91mcorona-cola[0m.
+
+[1m[4mOMG !!! LE CORONA-COLA N'EST QUE DE LA BIERE CORONA ET DU COCA ![0m
+
+Le monde doit savoir...
+
+
+********************************************************************************
+**           Cette action t'a pris [92m[1m45 minutes[0m et tu as gagné [93m[1m30 point(s) d'#NRJ[0m.
+********************************************************************************
+
+ANALYSIS
+analysis = True, coffee = False
+********************************************************************************
+**           Il est [92m[1m10h55[0m. Il te reste [1m[93m58 d'#NRJ[0m.
+********************************************************************************
+[0m
+
+Maintenant que [92m[1mTiphaine[0m a des éléments solides pour affirmer que le [91m[1mcorona-cola[0m
+est dangereux est inutile, il est urgent qu’elle se trouve des alliés. Elle
+choisit d’abord d’en parler à son voisin [94m[1mAlexis[0m.
+
+[94m[1mAlexis[0m écoute [92m[1mTiphaine[0m silencieusement tout en écrivant son prochain
+livre de JDR: [4m“Donjons et Labos”[0m. Le personnage principal de son histoire est
+un cheval qui rêve d’être un zèbre. Il répond distraitement à Tiphaine qu’il n’a
+pas forcément beaucoup de conseils pour cette histoire de [91m[1mcorona-cola[0m mais par
+contre lui il a eu [1m[93mplein de problèmes administratifs[0m à son retour, et que c’était
+bien relou. Il informe Tiphaine qu’elle aura sûrement du mal avec l’administration
+aussi, et qu’elle ne peut pas espérer d’entrevue avec [91m[1mDaoult[0m tant qu’elle n’a pas
+régularisé sa situation administrative d’ex-doctorante. Il va falloir qu’elle
+[1mrecontacte l’administration pour obtenir [91mle formulaire A38[0m[1m via [91mle laisser-passer A39.[0m
+
+[0m
+
+[1m[94mAlexis[0m s'approche de la fenêtre, prend une respiration d'air frais et se remet au
+travail.
+
+[1mBonne chance Tiphaine ![0m
+T
+[0m
+
+[92mTiphaine[0m continue la conversation. Après tout, [92mFrance[0m
+est son [92mamie[0m.
+
+France lui raconte qu’elle a fait beaucoup de [92msport[0m, qu’elle a publié 7 articles,
+qu’elle a perdu 10kg en ne mangeant que des [92mpommes[0m.
+
+Elle donne à Tiphaine du [93m[1mHuel[0m qui permet de restaurer 100% d’[93m#NRJ[0m sans avoir
+à perdre de [92mTEMPS[0m, ce qui sera un atout de taille dans le combat contre [91m[1mDaoult[0m.
+
+Dans la conversation, [92m[1mTiphaine[0m reussi a convaincre France de [1mvoter pour le hamac[0m.
+En meme temps, France a toujours été pour un coin détente !
+
+
+
+********************************************************************************
+**           Cette action t'a pris [92m[1m20 minutes[0m et tu as gagné [93m[1m42 point(s) d'#NRJ[0m.
+********************************************************************************
+********************************************************************************
+**           Il est [92m[1m11h15[0m. Il te reste [1m[93m100 d'#NRJ[0m.
+********************************************************************************
+F
+
+F&G ENCOUNTERS
+hamac_votes = ['ouardia', 'tiphaine', 'france']
+********************************************************************************
+**           Il est [92m[1m11h15[0m. Il te reste [1m[93m100 d'#NRJ[0m.
+********************************************************************************
