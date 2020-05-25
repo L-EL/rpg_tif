@@ -73,7 +73,6 @@ def game(DEBUG=False):
 	alexis = True
 	paoletti = False
 	holcman = False
-	allie_is_evil_de = 20 ### add by Elise
 
 	###############################
 	# PROLOGUE
@@ -515,14 +514,20 @@ def game(DEBUG=False):
 		input()
 	clear_screen()
 
-
+	if type(energy) is int :
+		pdb.set_trace()
+	if energy.e <= 0 :
+		die()
+	if time <= 14 * 60:
+		print('You will never end this day : too much procrastination --> GAME OVER ! Recommence !')
+		return
 	assert time <= 14 * 60 # before 2pm
-	#assert energy.e > 0
+	assert energy.e > 0
 	assert badge
 	assert analysis
 	assert gpu
 
-	#pdb.set_trace()
+
 	##########################################
 	# PARALLEL QUESTS
 	##########################################
@@ -714,10 +719,10 @@ def game(DEBUG=False):
 	if time >= config.end_hour * 60 or energy < 0:
 		print('GAME OVER ! Recommence !')
 		return
-
-	assert babyfoot
-	assert hamac_quest
-	assert diploma
+	#pdb.set_trace()
+	#assert babyfoot
+	#assert hamac_quest
+	#assert diploma
 	assert (covid or fungus or hamac_weapon)
 
 
@@ -739,7 +744,7 @@ def game(DEBUG=False):
 	elif office_check =='1':
 		if paoletti:
 			print("Ton allie Paoletti est mechant")
-			energy += allie_is_evil_de
+			energy += config.allie_is_evil_de
 		else:
 			print("Tu ne trouves rien chez Paoletti")
 	elif office_check == '2':
@@ -747,7 +752,7 @@ def game(DEBUG=False):
 			print("Tu ne trouves rien chez Holcman")
 		else:
 			print("Ton allie Holmcan est mechant")
-			energy += allie_is_evil_de
+			energy += config.allie_is_evil_de
 
 	if office_check != '3':
 		time += config.whistleblower_dt
@@ -818,7 +823,7 @@ def game(DEBUG=False):
 						print(allie_choice)
 					if allie_choice == 'T':
 						# exchange
-						paloetti = not paloetti
+						paoletti = not paoletti
 						holcman = not holcman
 
 					print("Tu as gagne - Sort of")
