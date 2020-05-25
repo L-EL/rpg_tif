@@ -112,7 +112,7 @@ def game(DEBUG=False):
 	alexis = True
 	paoletti = False
 	holcman = False
-	allie_is_evil_de = 20 ### add by Elise
+	allie_is_evil_de = 20
 
 	###############################
 	# PROLOGUE
@@ -822,7 +822,7 @@ def game(DEBUG=False):
 			if DEBUG : 
 				print(huel_choice)
 			if huel_choice == 'T':
-				energy = Energy(100) ### change 100
+				energy = Energy(100)
 
 		daoult_proposition =  random.choice(['T', 'F'])  if DEBUG else input("Daoult te propose un poste permanent avec mobilite. Tu acceptes ? [T/F]")
 		if DEBUG : 
@@ -892,7 +892,7 @@ def game(DEBUG=False):
 			if DEBUG : 
 				print(huel_choice)
 			if huel_choice == 'T':
-				energy = Energy(100) ### change 100
+				energy = Energy(100)
 
 		if paoletti or holcman:
 			# she still has an allie

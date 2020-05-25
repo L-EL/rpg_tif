@@ -18,7 +18,7 @@ def time2hours(time):
 def shifumi(DEBUG = False):
 	choice = random.choice([0, 1, 2])  if DEBUG else  int(check_input(p_color("narration/gpu/shifumi_play.txt"),
 							 ['0', '1', '2']))
-	print('your choice : ' +str(choice))
+	print('your choice : 'str(choice))
 	choice_lisa = random.randint(0, 2)
 	print('Lisa choice : ' +str(choice_lisa))
 	choice_raphael = random.randint(0, 2)
@@ -31,7 +31,7 @@ def shifumi(DEBUG = False):
 		print("Ex-aequo.")
 		choice = random.choice([0, 1, 2])  if DEBUG else  int(check_input(p_color("narration/gpu/shifumi_play.txt"),
 								 ['0', '1', '2']))
-		print('your choice : '+str(choice))
+		print('your choice : 'str(choice))
 		choice_lisa = random.randint(0, 2)
 		print('Lisa choice : ' +str(choice_lisa))
 		choice_raphael = random.randint(0, 2)
